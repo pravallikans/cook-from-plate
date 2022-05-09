@@ -12,3 +12,5 @@ Libraries:
 Command: 
   python run.py
 Whenever you upload the image it adds to images in static.
+References:
+https://github.com/navassherif98/Recipe-Generation-from-Food-Image
